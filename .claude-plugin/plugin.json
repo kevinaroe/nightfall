@@ -1,0 +1,6 @@
+{
+  "name": "nightfall",
+  "version": "0.3.0",
+  "description": "A lunar and celestial look for Claude: midnight navy and gold palette, a moon at its real phase over a star field, a context gauge, and /lunar to turn it off or on for a session.",
+  "types": "./types/index.d.ts"
+}
